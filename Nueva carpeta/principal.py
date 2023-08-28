@@ -30,6 +30,5 @@ for i in range(s+1):
                 print("0"+str(c.hora.valor)+":"+str(c.minuto.valor)+":"+str(c.segundo.valor))
             else:
                 print(str(c.hora.valor)+":"+str(c.minuto.valor)+":"+str(c.segundo.valor))
-    c.avanzar()
+    
 print("\n\tCONTEO FINALIZADO\n")
-print("\t◥------◥\n\tl ● ▄ ◉ l ѠOOƑ!\n\tl‿/ʊ\‿l\n\tl══o══l\n\t︳ ︳︳ l⊃\n\tఋ︵ ఋ\n")
